@@ -5,4 +5,5 @@ git status - статус файлов
 git commit -m - комит файлов
 git log - просмотр изменений
 .gitignore - файл для добалвения исключений 
-
+git checkout <ver> - просмотр файла в указанной версии
+git checkout master - возвращение к главной ветке
