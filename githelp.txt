@@ -12,3 +12,5 @@ git branch <name> - создание ветки
 git branch -a - список веток
 git checkout <name> - переключение на ветку
 git merge <name> - обьединение веток
+git remote add origin <url> - подключение к удаленному репозиторию
+git push -u origin master - выгрузка ветки на удаленный репозиторий
